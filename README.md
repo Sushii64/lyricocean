@@ -2,7 +2,7 @@
 
 that lyrics site
 
-[https://lyrics.sushii64.com]
+https://lyrics.sushii64.com
 
 run `npm run build` to get a static version of the site
 
