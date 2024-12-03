@@ -181,6 +181,12 @@ const Home = ({ items }) => {
 
   return (
     <div className="p-4 max-w-4xl mx-auto space-y-6">
+        <MetaTags
+          title="LyricOcean"
+          description="A quick and snappy lyrics website!"
+          image="https://lyrics.sushii64.com/logo512.png"
+          color="#0f172a"
+        />
         <div className="flex flex-col md:flex-row md:items-center justify-between mb-6">
             <h1 className="text-4xl font-extrabold text-primary-focus mb-4 md:mb-0">
                 LyricOcean
