@@ -138,5 +138,12 @@
         "artist": "YonKaGor", 
         "year": "2018", 
         "image": "covers/yonkagor-fish.jpg"
+    },
+    { 
+        "id": "yonkagor-linger-in-the-rain", 
+        "name": "Linger in the Rain", 
+        "artist": "YonKaGor", 
+        "year": "2024", 
+        "image": "covers/yonkagor-linger-in-the-rain.jpg"
     }
 ]
