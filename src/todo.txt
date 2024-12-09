@@ -1,0 +1,9 @@
+- make the json update if it's out of date
+- add more songs
+- make the homepage have a list of artists that you can search and then the normal song list from there where you can search for their songs
+    - maybe an artist db that it matches the "artist" in the song data with the "name" in the artist data
+    - that way the artists could have images
+    - urls like this
+        / <- as normal, but would now host the artist list
+        /artist/<name>
+        /song/<song name> <- as normal
