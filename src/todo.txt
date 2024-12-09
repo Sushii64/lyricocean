@@ -1,5 +1,8 @@
 - make the json update if it's out of date
 - add more songs
+- make the homepage let you search for the artist and the song name in the same search along with one of the other
+
+maybe: 
 - make the homepage have a list of artists that you can search and then the normal song list from there where you can search for their songs
     - maybe an artist db that it matches the "artist" in the song data with the "name" in the artist data
     - that way the artists could have images
