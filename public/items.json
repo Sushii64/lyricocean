@@ -145,5 +145,299 @@
         "artist": "YonKaGor", 
         "year": "2024", 
         "image": "covers/yonkagor-linger-in-the-rain.jpg"
+    },
+    {
+        "id": "ivycomb-365",
+        "name": "365",
+        "artist": "ivycomb",
+        "year": 2022,
+        "image": "covers/ivycomb-365.jpg"
+    },
+    {
+        "id": "ivycomb-antihuman",
+        "name": "ANTIHUMAN",
+        "artist": "ivycomb",
+        "year": 2023,
+        "image": "covers/ivycomb-antihuman.jpg"
+    },
+    {
+        "id": "ivycomb-antivillain",
+        "name": "ANTIVILLAIN",
+        "artist": "ivycomb",
+        "year": 2024,
+        "image": "covers/ivycomb-antivillain.png"
+    },
+    {
+        "id": "ivycomb-blue-bird",
+        "name": "Blue Bird",
+        "artist": "ivycomb",
+        "year": 2023,
+        "image": "covers/ivycomb-blue-bird.jpg"
+    },
+    {
+        "id": "ivycomb-cybernetic-heart",
+        "name": "CYBERNETIC HEART",
+        "artist": "ivycomb",
+        "year": 2024,
+        "image": "covers/ivycomb-cybernetic-heart.png"
+    },
+    {
+        "id": "ivycomb-data-reject",
+        "name": "DATA_REJECT",
+        "artist": "ivycomb",
+        "year": 2024,
+        "image": "covers/ivycomb-data-reject.jpg"
+    },
+    {
+        "id": "ivycomb-false-idol",
+        "name": "False Idol",
+        "artist": "ivycomb",
+        "year": 2022,
+        "image": "covers/ivycomb-false-idol.jpg"
+    },
+    {
+        "id": "ivycomb-five-nights-at-freddy-s",
+        "name": "Five Nights at Freddy's",
+        "artist": "ivycomb",
+        "year": 2023,
+        "image": "covers/ivycomb-five-nights-at-freddy-s.jpg"
+    },
+    {
+        "id": "ivycomb-fool-s-gold",
+        "name": "Fool's Gold",
+        "artist": "ivycomb",
+        "year": 2023,
+        "image": "covers/ivycomb-fool-s-gold.png"
+    },
+    {
+        "id": "ivycomb-forgotten",
+        "name": "Forgotten",
+        "artist": "ivycomb",
+        "year": 2023,
+        "image": "covers/ivycomb-forgotten.jpg"
+    },
+    {
+        "id": "ivycomb-fratricide",
+        "name": "Fratricide",
+        "artist": "ivycomb",
+        "year": 2023,
+        "image": "covers/ivycomb-fratricide.jpg"
+    },
+    {
+        "id": "ivycomb-ghost",
+        "name": "Ghost",
+        "artist": "ivycomb",
+        "year": 2022,
+        "image": "covers/ivycomb-ghost.jpg"
+    },
+    {
+        "id": "ivycomb-in-the-light",
+        "name": "In The Light",
+        "artist": "ivycomb",
+        "year": 2024,
+        "image": "covers/ivycomb-in-the-light.png"
+    },
+    {
+        "id": "ivycomb-i-won-t-submit",
+        "name": "I Won't Submit",
+        "artist": "ivycomb",
+        "year": 2022,
+        "image": "covers/ivycomb-i-won-t-submit.jpg"
+    },
+    {
+        "id": "ivycomb-ldr",
+        "name": "LDR",
+        "artist": "ivycomb",
+        "year": 2024,
+        "image": "covers/ivycomb-ldr.jpg"
+    },
+    {
+        "id": "ivycomb-ldr-metahumanboi-remix",
+        "name": "LDR - MetaHumanBoi Remix",
+        "artist": "ivycomb",
+        "year": 2024,
+        "image": "covers/ivycomb-ldr-metahumanboi-remix.jpg"
+    },
+    {
+        "id": "ivycomb--leave-a-message",
+        "name": "​leave a message",
+        "artist": "ivycomb",
+        "year": 2022,
+        "image": "covers/ivycomb--leave-a-message.jpg"
+    },
+    {
+        "id": "ivycomb-lovesick",
+        "name": "LOVESICK",
+        "artist": "ivycomb",
+        "year": 2023,
+        "image": "covers/ivycomb-lovesick.jpg"
+    },
+    {
+        "id": "ivycomb-luminescence",
+        "name": "Luminescence",
+        "artist": "ivycomb",
+        "year": 2024,
+        "image": "covers/ivycomb-luminescence.jpg"
+    },
+    {
+        "id": "ivycomb-make-believe",
+        "name": "MAKE BELIEVE",
+        "artist": "ivycomb",
+        "year": 2024,
+        "image": "covers/ivycomb-make-believe.jpg"
+    },
+    {
+        "id": "ivycomb-ninth-life",
+        "name": "Ninth Life",
+        "artist": "ivycomb",
+        "year": 2023,
+        "image": "covers/ivycomb-ninth-life.jpg"
+    },
+    {
+        "id": "ivycomb-no-eternity",
+        "name": "No Eternity",
+        "artist": "ivycomb",
+        "year": 2024,
+        "image": "covers/ivycomb-no-eternity.png"
+    },
+    {
+        "id": "ivycomb-no-eternity-alternate-mix-",
+        "name": "No Eternity (Alternate Mix)",
+        "artist": "ivycomb",
+        "year": 2024,
+        "image": "covers/ivycomb-no-eternity-alternate-mix-.png"
+    },
+    {
+        "id": "ivycomb-notorious",
+        "name": "NOTORIOUS",
+        "artist": "ivycomb",
+        "year": 2023,
+        "image": "covers/ivycomb-notorious.jpg"
+    },
+    {
+        "id": "ivycomb-sahara",
+        "name": "SAHARA",
+        "artist": "ivycomb",
+        "year": 2024,
+        "image": "covers/ivycomb-sahara.jpg"
+    },
+    {
+        "id": "ivycomb-shadow-of-an-angel",
+        "name": "Shadow of an Angel",
+        "artist": "ivycomb",
+        "year": 2022,
+        "image": "covers/ivycomb-shadow-of-an-angel.jpg"
+    },
+    {
+        "id": "ivycomb-sheep-to-goat",
+        "name": "Sheep to Goat",
+        "artist": "ivycomb",
+        "year": 2022,
+        "image": "covers/ivycomb-sheep-to-goat.jpg"
+    },
+    {
+        "id": "ivycomb-soul-astray",
+        "name": "Soul Astray",
+        "artist": "ivycomb",
+        "year": 2021,
+        "image": "covers/ivycomb-soul-astray.jpg"
+    },
+    {
+        "id": "ivycomb-spider-bites",
+        "name": "Spider Bites",
+        "artist": "ivycomb",
+        "year": 2023,
+        "image": "covers/ivycomb-spider-bites.jpg"
+    },
+    {
+        "id": "ivycomb-starbound",
+        "name": "Starbound",
+        "artist": "ivycomb",
+        "year": 2021,
+        "image": "covers/ivycomb-starbound.jpg"
+    },
+    {
+        "id": "ivycomb-suspend-my-belief",
+        "name": "Suspend My Belief",
+        "artist": "ivycomb",
+        "year": 2024,
+        "image": "covers/ivycomb-suspend-my-belief.webp"
+    },
+    {
+        "id": "ivycomb-sweet-little-lies",
+        "name": "Sweet Little Lies",
+        "artist": "ivycomb",
+        "year": 2023,
+        "image": "covers/ivycomb-sweet-little-lies.jpg"
+    },
+    {
+        "id": "ivycomb-system-error",
+        "name": "System Error",
+        "artist": "ivycomb",
+        "year": 2023,
+        "image": "covers/ivycomb-system-error.jpg"
+    },
+    {
+        "id": "ivycomb-the-imposter",
+        "name": "The Imposter",
+        "artist": "ivycomb",
+        "year": 2022,
+        "image": "covers/ivycomb-the-imposter.jpg"
+    },
+    {
+        "id": "ivycomb-tokyo",
+        "name": "Tokyo",
+        "artist": "ivycomb",
+        "year": 2021,
+        "image": "covers/ivycomb-tokyo.jpg"
+    },
+    {
+        "id": "ivycomb-tokyo-anniversary",
+        "name": "TOKYO ANNIVERSARY",
+        "artist": "ivycomb",
+        "year": 2022,
+        "image": "covers/ivycomb-tokyo-anniversary.jpg"
+    },
+    {
+        "id": "ivycomb-world-of-everything",
+        "name": "World of Everything",
+        "artist": "ivycomb",
+        "year": 2023,
+        "image": "covers/ivycomb-world-of-everything.jpg"
+    },
+    {
+        "id": "ret-tro-clutch",
+        "name": "CLUTCH",
+        "artist": "RET TRO",
+        "year": 2022,
+        "image": "covers/ret-tro-clutch.jpg"
+    },
+    {
+        "id": "ret-tro-drif-t",
+        "name": "DRIF-T",
+        "artist": "RET TRO",
+        "year": 2022,
+        "image": "covers/ret-tro-drif-t.jpg"
+    },
+    {
+        "id": "ret-tro-happy",
+        "name": "Happy",
+        "artist": "RET TRO",
+        "year": 2021,
+        "image": "covers/ret-tro-happy.jpg"
+    },
+    {
+        "id": "ret-tro-photo-frames",
+        "name": "Photo Frames",
+        "artist": "RET TRO",
+        "year": 2022,
+        "image": "covers/ret-tro-photo-frames.jpg"
+    },
+    {
+        "id": "ret-tro-polaroid",
+        "name": "Polaroid",
+        "artist": "RET TRO",
+        "year": 2023,
+        "image": "covers/ret-tro-polaroid.jpg"
     }
 ]
